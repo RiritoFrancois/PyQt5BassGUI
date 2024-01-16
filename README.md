@@ -1,2 +1,2 @@
 # PyQt5BassGUI
-PyQt5BassGUI by RiritoNinigaya(My First Program for Bass Library)
+PyQt5BassGUI by RiritoFrancois(My First Program for Bass Library)
