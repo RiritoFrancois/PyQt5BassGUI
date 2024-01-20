@@ -1,2 +1,3 @@
 # PyQt5BassGUI
-PyQt5BassGUI by RiritoFrancois(My First Program for Bass Library)
+
+It is My First Program to Initialize BASS In PyQt5 GUI(Graphical User Interface)... Enjoy to use!!!
